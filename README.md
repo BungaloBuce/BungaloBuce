@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bruce
 
-![Bruce’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bungalobuce&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Bruce%27s%20GitHub%20Stats%0A)
+<!-- ![Bruce’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bungalobuce&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Bruce%27s%20GitHub%20Stats%0A) -->
 
 ### Connect With Me!<a href="https://www.linkedin.com/in/bruce-diesel-rabago-b5b519180"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
